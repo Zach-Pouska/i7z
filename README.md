@@ -11,9 +11,9 @@
   3. `Choose another app`
   4. Check `Always use this app to open .zip files`
   5. Click `More apps ↓`
-  6. Scroll to the bottom and select `Look for anothyer app on this PC`
+  6. Scroll to the bottom and select `Look for another app on this PC`
   7. Navigate to the directory you downloaded / compiled the executable, and select it.
 
 
 # To-do
-- [ ] This could probably be done with a .bat file, or programmed in C without all of the extra c++ bloat. Basically could just be optimized more.
+- [ ] This could probably be done with a .bat file, or programmed in C without all of the extra c++ template library bloat. Basically could just be optimized more.
